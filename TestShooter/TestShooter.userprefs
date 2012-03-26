@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Projectile.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Projectile.cs" Line="35" Column="4" />
+      <File FileName="Assets\Scripts\Player.cs" Line="21" Column="26" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="16" Column="23" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\Lose.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\Win.cs" Line="21" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
